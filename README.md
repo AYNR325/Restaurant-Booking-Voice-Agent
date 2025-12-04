@@ -2,6 +2,11 @@
 
 A premium, voice-activated restaurant reservation system powered by **Google Gemini AI**. This full-stack application allows users to book tables using natural conversation, intelligently suggests seating based on real-time weather, and provides a robust admin dashboard for restaurant managers.
 
+## 🔗 Live Demo
+
+[**Try the Live Application**](https://restaurant-booking-voice-agent-fron.vercel.app)
+
+
 ![Project Banner](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
 
 ## ✨ Features
